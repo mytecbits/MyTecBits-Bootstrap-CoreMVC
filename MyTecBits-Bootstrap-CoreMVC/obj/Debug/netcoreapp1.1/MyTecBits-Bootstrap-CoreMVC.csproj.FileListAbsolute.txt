@@ -1,0 +1,9 @@
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\bin\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.deps.json
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\bin\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.runtimeconfig.json
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\bin\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.runtimeconfig.dev.json
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\bin\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.dll
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\bin\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.pdb
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\obj\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.csprojResolveAssemblyReference.cache
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\obj\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.AssemblyInfo.cs
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\obj\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.dll
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\obj\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.pdb
