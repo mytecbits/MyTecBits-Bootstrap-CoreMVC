@@ -7,3 +7,5 @@ C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-Co
 C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\obj\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.AssemblyInfo.cs
 C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\obj\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.dll
 C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\obj\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.pdb
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\obj\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.csproj.CoreCompileInputs.cache
+C:\Beaulin\Blog.MyTecBits.com\MyTecBits-Bootstrap-CoreMVC\MyTecBits-Bootstrap-CoreMVC\obj\Debug\netcoreapp1.1\MyTecBits-Bootstrap-CoreMVC.AssemblyInfoInputs.cache

@@ -1,6 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+      "C:\\Users\\BeaulinTwinkle\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\BeaulinTwinkle\\.nuget\\packages"
     ]
   }
